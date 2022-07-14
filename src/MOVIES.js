@@ -38,4 +38,12 @@ export const MOVIES = [
   'Lata Mangeshkar',
   'SP Balasubramaniam',
   'Arijit Singh',
+  '21 Savage',
+  'Eminem',
+  'Drake',
+  'John Lennon',
+  'Sam Smith',
+  'Future',
+  'Doja Cat',
+  'David Guetta',
 ]
