@@ -6,6 +6,7 @@ import Spinner from './Spinner'
 const wait = (time = 3000) =>
   new Promise((resolve) => setTimeout(resolve, time))
 
+  
 const App = () => {
   const [pick, setPick] = useState('')
   const [isLoading, setIsLoading] = useState(false)
